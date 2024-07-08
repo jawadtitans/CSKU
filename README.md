@@ -21,7 +21,7 @@ To run CSKU locally or deploy it on a server, follow these steps:
 
 1. Clone the repository:
    ```bash
-   https://github.com/jawadhacker/CSKU.git
+   https://github.com/jawadtitans/CSKU.git
    cd CSKU
 
 **#Features**
